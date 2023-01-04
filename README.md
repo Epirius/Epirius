@@ -1,5 +1,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Epirius)](https://github.com/Epirius/github-readme-stats)
 
+contributing to:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=echo-webkom&repo=echo-web)](https://github.com/echo-webkom/echo-web)
 
 <!--
 **Epirius/Epirius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
